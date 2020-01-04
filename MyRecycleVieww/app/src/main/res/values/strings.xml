@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+
+    <string name="fakultas">Fakultas di Universitas Indonesia</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>FASILKOM</item>
+        <item>FE</item>
+        <item>FH</item>
+        <item>FISIP</item>
+        <item>FK</item>
+        <item>FKM</item>
+        <item>FT</item>
+        <item>Psikologi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Fakultas Impian aku di UI karna disini ada Sistem Informasi, di fakultas ini isinya yang berhubungan sama komputer pokoknya, pusing dah</item>
+        <item>Fakultas Ekonomi, peminatnya mayan banyak neh! karena disini ada ekonomi, manajemen, bisnis dan masi banyak lagi gais, ak jg gaapal</item>
+        <item>Fakultas Hukum! isinya anak anak hedon nan rupawan, gatau kenapa anak hukum dimana mana mesti paling hedon diantara fakultas yang lain</item>
+        <item>Fakultas ISIP! yang mana isinya anak HI anak Politik, anak kriminologi banyak dah mantep sih ini jurusannya saingan juga berat coi</item>
+        <item>Kedokteran!?!?! wow udah berat masuknya bertahannya pun harus make hati gais! ada FK FKG udah gitu kuliahnya cukup lama gais, apaka kln kuad!?!?</item>
+        <item>Kesmas! anak kesmas tuh rata rata peduli gitu gais sama kesehatan di masyarakat contohnya anak gizi, kesmas, kesling dan masi banyak</item>
+        <item>Teknik! wkwk jurusan yang biasanya banyak cowo nya, cukup berat gais teknik ini ada tekdus tekling tekim arsi pokoknya berat km gakuadh</item>
+        <item>Psikologi! jurusan ini bisa dari soshum atau saintek, sesuai kampus ya gais, cukup seru kok jurusan ini dan bikin lieur juga</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/nLr2rnWW/makara-ui-fasilkom.png</item>
+        <item>https://i.postimg.cc/vmKz6pFZ/makara-ui-fe.png</item>
+        <item>https://i.postimg.cc/85rbdtNB/makara-ui-fh.png</item>
+        <item>https://i.postimg.cc/Zntxwpqk/makara-ui-fisip.png</item>
+        <item>https://i.postimg.cc/T1VqF1yK/makara-ui-fk.png</item>
+        <item>https://i.postimg.cc/zDKjVtdq/makara-ui-fkm.png</item>
+        <item>https://i.postimg.cc/pXBJB9b7/makara-ui-ft.png</item>
+        <item>https://i.postimg.cc/jdThNH9P/makara-ui-psikologi.png</item>
+    </string-array>
+</resources>
